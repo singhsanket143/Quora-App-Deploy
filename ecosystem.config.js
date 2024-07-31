@@ -2,7 +2,7 @@ module.exports = {
     apps: [
         {
             "name": "quoraapp",
-            "script": "gradle",
+            "script": "/home/ubuntu/.sdkman/candidates/gradle/current/bin/gradle",
             "args": "bootRun",
 
         }
